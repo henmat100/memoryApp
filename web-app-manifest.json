@@ -9,8 +9,8 @@
     ],
     "theme-color": "#9E9E9E",
     "background-color":"#9E9E9E",
-    "scope": "xxxx/memoryApp/",
-    "start-url": "xxxx/memoryApp/index.html",
+    "scope": "https://henmat100.github.io/memoryApp/",
+    "start-url": "https://henmat100.github.io/memoryApp/index.html",
     "display": "standalone",
     "orientation": "portrait"
 }
