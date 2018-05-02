@@ -8,9 +8,9 @@
         }
     ],
     "theme_color": "#9E9E9E",
-    "background_color":"#9E9E9E",
-    "scope": "https://henmat100.github.io/memoryApp/",
-    "start_url": "https://henmat100.github.io/memoryApp/index.html",
+    "background_color":"rgb(60,120,170);",
+    "scope": "https://henmat100.github.io.memoryApp/",
+    "start_url": "https://henmat100.github.io.memoryApp/index.html",
     "display": "standalone",
     "orientation": "portrait"
 }
